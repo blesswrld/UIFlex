@@ -6,4 +6,3 @@
 <br>Ready-to-use components: A collection of interface components that you can immediately integrate into your projects.
 <br>Clean and modular code: Components are split into separate files for easy import and use.
 <br>Easy integration: UIFlex seamlessly fits into existing projects, whether they are small websites or large applications.
-<br>For detailed documentation, usage examples, and more information, visit our full repository with code and components at the following link to the full repository.
